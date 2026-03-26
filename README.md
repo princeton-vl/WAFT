@@ -1,3 +1,5 @@
+[New!] Please also check [WAFT-Stereo](https://github.com/princeton-vl/WAFT-Stereo), our new efficient state-of-the-art method for stereo matching.
+
 # WAFT
 
 [[Paper](https://arxiv.org/abs/2506.21526v2)]
